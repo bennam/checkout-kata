@@ -1,0 +1,17 @@
+{
+  "name": "checkout-kata",
+  "version": "0.0.0",
+  "description": "",
+  "main": "checkout.js",
+  "dependencies": {
+    "chai": "~1.9.0"
+  },
+  "devDependencies": {
+    "chai": "~1.9.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
